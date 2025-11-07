@@ -1,24 +1,24 @@
 File Name                      | EA Cost         | Random Cost    
 -----------------------------------------------------------------
 problem_g_10.npy               | 1497.66         | 3008.50        
-problem_g_100.npy              | 4472.69         | 26928.34       
-problem_g_1000.npy             | 47126.22        | 259036.21      
+problem_g_100.npy              | 4232.11         | 27084.17        
+problem_g_1000.npy             | 32645.07        | 255845.59        
 problem_g_20.npy               | 1755.51         | 5084.72        
-problem_g_200.npy              | 7288.93         | 53385.78       
+problem_g_200.npy              | 6617.15         | 51506.69       
 problem_g_50.npy               | 2777.03         | 11731.88       
-problem_g_500.npy              | 19941.73        | 128949.94      
+problem_g_500.npy              | 14389.05        | 127216.50        
 problem_r1_10.npy              | 184.27          | 338.85         
-problem_r1_100.npy             | 851.44          | 5239.81        
-problem_r1_1000.npy            | 8870.97         | 50376.09       
+problem_r1_100.npy             | 771.77          | 4837.30        
+problem_r1_1000.npy            | 6317.23         | 51316.16        
 problem_r1_20.npy              | 349.53          | 951.01         
-problem_r1_200.npy             | 1421.93         | 10760.27       
+problem_r1_200.npy             | 1208.97         | 10776.78       
 problem_r1_50.npy              | 572.95          | 2037.13        
-problem_r1_500.npy             | 3676.10         | 26440.74       
+problem_r1_500.npy             | 2826.39         | 27268.03        
 problem_r2_10.npy              | -411.70         | -67.19         
-problem_r2_100.npy             | -4653.77        | -81.94         
-problem_r2_1000.npy            | -44651.79       | -906.90        
-problem_r2_20.npy              | -835.73         | -78.59         
-problem_r2_200.npy             | -9254.22        | -77.41         
+problem_r2_100.npy             | -4674.80        | 1.36            
+problem_r2_1000.npy            | -46826.89       | -484.25         
+problem_r2_20.npy              | -850.42         | 128.18      
+problem_r2_200.npy             | -9396.18        | 196.78         
 problem_r2_50.npy              | -2210.81        | -63.32         
-problem_r2_500.npy             | -22889.38       | 333.68         
+problem_r2_500.npy             | -23767.23       | 874.22               
 test_problem.npy               | 3006.20         | 9154.83        
